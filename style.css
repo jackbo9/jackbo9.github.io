@@ -40,12 +40,8 @@ float: right;
 }
 .block1
 {width: 505px
-;
-	float: right;
-
-	margin: 0px;
+;float: right;margin: 0px;
 	margin-top: 40pt;
-	margin-right: 15%; 
 	font-family:'Futura''Times New Roman','sans-serif', 宋体, 楷体;}
 	.block2
 {width: 505px
@@ -92,6 +88,10 @@ float: right;
 	display: inline-block;
 	height: auto;
 	max-width: 100%;}
-
-
-
+	.box6
+	{
+	float: right;
+		margin: 0px;
+		margin-top: 40pt;
+		margin-right: 15%; }
+		
